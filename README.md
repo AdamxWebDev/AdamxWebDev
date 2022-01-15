@@ -10,7 +10,6 @@ Thank you for visiting my page, here you can find a collection of all my project
 
 I encourage to take a look at some of my projects such as my [Portfolio](https://adamxwebdev.github.io/Portfolio/)!
 
-![banner](https://media-exp1.licdn.com/dms/image/C4D16AQEUIpNeUYoYCA/profile-displaybackgroundimage-shrink_350_1400/0/1641342540118?e=1647475200&v=beta&t=iVw0OdalQIaBlqL2KMXt_exaHnHQqR2-QUs2Y4e2l68)
 
 
 <!---
