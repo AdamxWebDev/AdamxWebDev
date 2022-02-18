@@ -8,7 +8,7 @@ Thank you for visiting my page, here you can find a collection of all my project
 - [Twitter](https://twitter.com/AdamxWebDev)
 - [Medium](https://medium.com/@AdamxWebDev)
 
-I encourage to take a look at some of my projects such as my [Portfolio](https://adamxwebdev.github.io/Portfolio/)!
+I encourage to take a look at some of my projects such as my [Portfolio](http://www.AdamMcCartney.tech)!
 
 
 
