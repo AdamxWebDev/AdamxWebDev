@@ -1,4 +1,4 @@
-![banner](https://media-exp1.licdn.com/dms/image/C4D16AQEUIpNeUYoYCA/profile-displaybackgroundimage-shrink_350_1400/0/1641342540118?e=1647475200&v=beta&t=iVw0OdalQIaBlqL2KMXt_exaHnHQqR2-QUs2Y4e2l68)
+![banner](https://media-exp1.licdn.com/dms/image/C4D16AQEUIpNeUYoYCA/profile-displaybackgroundimage-shrink_200_800/0/1641342540118?e=1654732800&v=beta&t=mONiat3sNIOS6x1QTvZLnsQx1derEL4b4juYd5I7INI)
 
 # Welcome!
 
